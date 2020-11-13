@@ -1,8 +1,8 @@
 # Broken Circles
 
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Broken Circles is a Data Prototype project by the Organised Art Syndicate, funded by [SWCTN](https://www.swctn.org.uk/data/) (the South West Creative Technology Network). The prototype investigates motivations and encouragements for citizens to buy and behave in the Circular Economy, to find their voices, and exercise choices in ways that send a message to supply chains to do better. The protoype aims to deliver data driven storytelling to allow citizens to understand the impact onf their choices, and find out where and how they have influence. This will take the form of web based interactive tools, a citizen toolkit, an interactive exhibit, and art.
 
-![Image of fast.ai logo](images/logo.png)
+![Broken Frames logo](images/BCLogo.png)
 
 ## This is a title
 
