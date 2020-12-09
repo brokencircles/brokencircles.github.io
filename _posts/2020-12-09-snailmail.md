@@ -1,4 +1,4 @@
-#Snail Mail
+# Snail Mail
 
 I am still struggling with taking on and synthesising so much new information, and attempting to find paths to make sense and consolidate it.
 At the other end, I am trying out different ideas and designs for citizen centred thinking around what we buy and why, and confronting the obstacles to changes in behaviours in the form of habits, and emotions. Linear product design and behaviours, and marketing to convince us that we need these things are deeply embedded. They have been hitting us where we buy for decades.
