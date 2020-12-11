@@ -1,15 +1,13 @@
 # Join Us!
 ## Vacanacy for an Environmental Data Researcher (Intern)
 
-Environmental Data Researcher (Intern)
-
-Based in SouthWest England.
-
-Fixed term contract for 3 months, 2-3 days (16-24 hours) per week
-
-Remote working, with occasional meetings if COVID-safe.
-
-Pays minimum wage for your age.
+- Environmental Data Researcher (Intern)
+- Based in SouthWest England.
+- Fixed term contract for 3 months, 2-3 days (16-24 hours) per week
+- Starts late January
+- Remote working, with occasional meetings if COVID-safe.
+- Pays minimum wage for your age.
+- Closing date for applications: 5pm on Thursday 7th January 2021
 
 ## About us
 Broken Circles is a data visualisation and consumer empowerment tool that takes data on the true and hidden costs of materials, manufacture, usage, and end of life costs, to make more fully informed choices possible. We embrace the ideas of The [Circular Economy](https://www.ellenmacarthurfoundation.org/explore/the-circular-economy-in-detail) to achieve this. We are empowering citizens to make better choices for themselves and the planet, linking to social, well-being and health as well as environmental factors. 
@@ -50,4 +48,4 @@ As an intern, we do not expect candidates to come with lots of work experience, 
 - Encouraged to speak up, participate, use your voice, and make an impact
 - An exciting and publicly shown project to add to your CV and online profile
 
-If this still sounds exciting to you, please complete [this application form](https://www.smartsurvey.co.uk/s/BEZZF8/) by 7th January
+If this still sounds exciting to you, please complete [this application form](https://www.smartsurvey.co.uk/s/BEZZF8/) by 5pm on Thursday 7th January 2021
