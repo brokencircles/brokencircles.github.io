@@ -29,12 +29,13 @@ As an intern, we do not expect candidates to come with lots of work experience, 
 - data gathering in a spreadsheet or similar
 - use of Google docs
 - basic familiarity with online tools, able to learn new ones quickly
+- be able to write in a clear and professional style
 
 # Person specification
 - Enthusiasm and some knowledge of environmental, sustainability and circular economy issues
 - Has maybe done some personal project in this area (school, college)
-- We are not worried about GCSE grades as much as your ability to communicate well
-- Available to work 3 days per week during office hours
+- GCSE maths, English and science, at grade C (or 4) or better. Or be able to demonstrate you can work at this level 
+- Available to work up to 3 days per week during office hours
 - Clear and friendly communicator
 - Be based in the South West of England, and be able to travel occasionally within South West (should COVID situation make this safe and desirable)
 - Have the Right to Work in the UK
@@ -42,6 +43,7 @@ As an intern, we do not expect candidates to come with lots of work experience, 
 
 # What you will get
 - Being part of a small, enthusiastic team running a unique project to develop a new idea in citizen engagement within the circular economy.
+- Increase your knowledge of environmental issues that will help as a stepping stone if you wish to continue to work in this area in the future
 - Be paid at minimum/living wage for your age.
 - Be supported in learning new skills
 - Be  supported in acting on own initiative
