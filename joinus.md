@@ -16,7 +16,7 @@ Dave (a creative technologist based in Bath) and Jon (a UX designer based in Cor
 
 # The Role
 As an intern, you will support us in our prototype research and development, to inform, empower, and motivate citizens in a move towards a circular economy.
-The work will be varied, but centrally we need help to find, assess and process environmental information about materials, use and energy and waste data for use in our model.
+The work will be varied, but centrally we need help to find, assess and process environmental information about materials, use, energy and waste data for our model.
 We will also need help with the broader project, helping us plan, run and process the outcomes from workshops with people across the region.
 We will welcome fresh ideas on the design and effectiveness of the prototype.
 Help with communication, blogging and social media will also be needed.
