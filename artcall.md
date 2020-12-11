@@ -2,6 +2,8 @@
 
 Two micro art residencies, using social media to provoke conversation
 
+![the word Discuss on crumpled paper](/images/discuss.png)
+
 ## About us
 Broken Circles is a data visualisation and consumer empowerment tool that takes data on the true and hidden costs of materials, manufacture, usage, and end of life costs, to make more fully informed choices possible. We embrace the ideas of The [Circular Economy](https://www.ellenmacarthurfoundation.org/explore/the-circular-economy-in-detail) to achieve this. We are empowering citizens to make better choices for themselves and the planet, linking to social, well-being and health as well as environmental factors. 
 
