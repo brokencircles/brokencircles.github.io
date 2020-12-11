@@ -1,6 +1,6 @@
 # Art Call
 
-Two micro art residencies, using social media to provoke conversation
+Broken Circles announces two micro art residencies, using social media to provoke conversation, to open for applications on 7th January 2021
 
 ![the word Discuss on crumpled paper](/images/discuss.png)
 
