@@ -2,9 +2,13 @@
 ## Vacanacy for an Environmental Data Researcher (Intern)
 
 Environmental Data Researcher (Intern)
+
 Based in SouthWest England.
+
 Fixed term contract for 3 months, 2-3 days (16-24 hours) per week
+
 Remote working, with occasional meetings if COVID-safe.
+
 Pays minimum wage for your age.
 
 ## About us
@@ -29,22 +33,21 @@ As an intern, we do not expect candidates to come with lots of work experience, 
 - basic familiarity with online tools, able to learn new ones quickly
 
 # Person specification
-- Enthusiasm and knowledge of environmental, sustainability and circular economy issues
+- Enthusiasm and some knowledge of environmental, sustainability and circular economy issues
 - Has maybe done some personal project in this area (school, college)
-- GCSE (or equivalent) grades, number?
+- We are not worried about GCSE grades as much as your ability to communicate well
 - Available to work 3 days per week during office hours
-- Access to own computer and internet
 - Clear and friendly communicator
 - Be based in the South West of England, and be able to travel occasionally within South West (should COVID situation make this safe and desirable)
 - Have the Right to Work in the UK
-- Ideally you will have access to a computer that you can use to carry out online work, and join video calls. If this is an issue for you, please apply anyway and let us know - we will look at options to help with this.
+- Access to own computer and internet. Ideally you will have access to a computer that you can use to carry out online work, and join video calls. If this is an issue for you, please apply anyway and let us know - we will look at options to help with this.
 
 # What you will get
-- Being part of a small, enthusiastic team running a unique project to develop a new idea in citizen engagement with the circular economy.
+- Being part of a small, enthusiastic team running a unique project to develop a new idea in citizen engagement within the circular economy.
 - Be paid at minimum/living wage for your age.
 - Be supported in learning new skills
 - Be  supported in acting on own initiative
-- Encouraged to speak up, participate, use their voice, and make an impact
+- Encouraged to speak up, participate, use your voice, and make an impact
 - An exciting and publicly shown project to add to your CV and online profile
 
-If this still sounds exciting to you, please complete *the form here* by *Date*
+If this still sounds exciting to you, please complete [this application form](https://www.smartsurvey.co.uk/s/PJKASU/) by 7th January
