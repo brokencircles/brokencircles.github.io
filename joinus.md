@@ -17,7 +17,7 @@ Broken Circles is a data visualisation and consumer empowerment tool that takes 
 Dave (a creative technologist based in Bath) and Jon (a UX designer based in Cornwall), and their network of expert advisors, have come together to create a prototype, but we need some extra help.
 
 # The Role
-As an intern, you will support us in our prototype research and development, to inform. empower, and motivate citizens in a move towards a circular economy.
+As an intern, you will support us in our prototype research and development, to inform, empower, and motivate citizens in a move towards a circular economy.
 The work will be varied, but centrally we need help to find, assess and process environmental information about materials, use and energy and waste data for use in our model.
 We will also need help with the broader project, helping us plan, run and process the outcomes from workshops with people across the region.
 We will welcome fresh ideas on the design and effectiveness of the prototype.
@@ -50,4 +50,4 @@ As an intern, we do not expect candidates to come with lots of work experience, 
 - Encouraged to speak up, participate, use your voice, and make an impact
 - An exciting and publicly shown project to add to your CV and online profile
 
-If this still sounds exciting to you, please complete [this application form](https://www.smartsurvey.co.uk/s/PJKASU/) by 7th January
+If this still sounds exciting to you, please complete [this application form](https://www.smartsurvey.co.uk/s/BEZZF8/) by 7th January
