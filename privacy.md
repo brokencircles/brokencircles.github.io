@@ -1,6 +1,6 @@
 # Privacy
 
-Please see our [privacy statement.](/docs/privacy statement v2.pdf) as a PDF, or see below.
+Please see our [privacy statement](/docs/privacy statement v2.pdf) as a PDF, or see below.
 
 ## Broken Circles Organisation Privacy Notice
 
