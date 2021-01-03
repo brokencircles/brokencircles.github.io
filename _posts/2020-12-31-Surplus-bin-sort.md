@@ -2,7 +2,7 @@
 
 A manual sort through my waste (surplus) bin over xmas 2020 revealed that we are still a long way away from circular packaging. That was the theme of this weeks mixed-media postcard.
 
-![surplus postcard glitch](non-circular-packaging.png)
+![surplus postcard glitch](/images/non-circular-packaging.png)
 
 There were 5 main groups that identified in my non-recyclables:
 
