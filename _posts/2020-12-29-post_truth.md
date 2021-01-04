@@ -1,4 +1,4 @@
-# Post truth
+# Post Truth
 
 As we send out our postcard data art and discuss our upcoming social media art residency call, I reflect on what environmental truth is after attending an online event by the Steps Centre.
 

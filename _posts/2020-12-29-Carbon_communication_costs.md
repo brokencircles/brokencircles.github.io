@@ -1,4 +1,4 @@
-# Carbon communication costs
+# Carbon Communication Costs
 
 Collaborating on an art project during the Covid lockdowns had brought new challenges and ways of using technology. We are spread across the South West and so have been communicating a lot remotely. 
 

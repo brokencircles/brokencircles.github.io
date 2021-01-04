@@ -1,4 +1,4 @@
-# Surplus bin sort algorithm
+# Surplus Bin Sort Algorithm
 
 A manual sort through my waste (surplus) bin over xmas 2020 revealed that we are still a long way away from circular packaging. That was the theme of this weeks mixed-media postcard.
 

@@ -1,4 +1,4 @@
-# New life for an old typewriter
+# New Life For An Old Typewriter
 
 One of the key principles of the circular economy is to keep materials in use. Sitting unused for many years, this broken typewriter found a new life in our post card data art exercise. 
 
