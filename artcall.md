@@ -1,4 +1,4 @@
-# Art Call
+# Art Call - Micro Residencies
 
 Broken Circles announces two micro art residencies, using social media to provoke conversation, Now open for Applications until 21st January 2021
 
