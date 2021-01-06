@@ -1,5 +1,5 @@
 # Join Us!
-## Vacanacy for an Environmental Data Researcher (Intern)
+## Vacancy for an Environmental Data Researcher (Intern)
 
 - Environmental Data Researcher (Intern)
 - Based in SouthWest England.
