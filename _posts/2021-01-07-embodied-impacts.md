@@ -1,6 +1,6 @@
-#Embodied Impacts
+# Embodied Impacts
 
-Last week's data postcard to Jon explored the cummulative impacts embodied in a product we buy and use.
+Last week's data postcard to Jon explored the cummulative impacts embodied in products we buy and use.
 
 ![flow of materials and processes for an imagined product, alongside the embodied impacts accumulated at each step](/images/embodiedImpacts.png)
 
