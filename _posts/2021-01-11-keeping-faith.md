@@ -1,4 +1,4 @@
-# Keepinf Faith
+# Keeping Faith
 
 ![religious stone carvings](/images/faith.png)
 
