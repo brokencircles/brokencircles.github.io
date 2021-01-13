@@ -1,6 +1,6 @@
 # Panning for Gold
 
-One important skill for any creative practice is to avoid any sense of perfection, judgement or pride in early ideas. This allows you to generate many ideas  quickly, without judgement and without being overly invested in any of them. It removes the pressure to create something amazing from thin air, and applies a process to make the magic happen. When faced with the block of an empty page or screen, this is the way to get going. 
+One important skill for any creative practice is to avoid any sense of perfection, judgement or pride in early ideas. This allows you to generate many ideas  quickly, without judgement and without being overly invested in any of them. It removes the pressure to create something amazing from thin air, and applies a process to make the magic happen. When faced with the terror of an empty page or screen, this is the way to get going. 
 
 ![image of sketched/scribbled designs on paper](/images/earlyDesigns.jpg)
 
@@ -10,7 +10,8 @@ In a way, the first few weeks of our broken Circles project have had the opposit
  - dooes it have creative merit - we want to provoke engagement and curiosity, and avoid well trodden tropes
  - does it deliver a punch - inspire an 'aha' moment in the audience?
  - am I excited by it?
-Less important to asess at this stage but something to visit:
+
+Less important to assess at this stage, we should also consider:
  - how will we build it?
  - how will data support it?
 	
