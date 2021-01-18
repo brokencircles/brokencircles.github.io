@@ -1,4 +1,4 @@
-# Data, Behaviour & Decisions
+# Data, Behaviour &amp; Decisions
 
 ![spiders web in heavy frost](/images/frostyWeb.png)
 
