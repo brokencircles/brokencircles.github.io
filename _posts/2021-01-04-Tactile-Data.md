@@ -1,4 +1,4 @@
-# Tactile Data
+# Tactile Data #1
 
 First, I tried to represent the used earths with holes. This is interesting but perhaps not as impactful as it could be because it is still heavily relying on visual thinking. I want to start to explore tangible, tactile data as a way of understanding to a form of embodied knowing. It should feel second nature to interact with data and understand the key message.
 
