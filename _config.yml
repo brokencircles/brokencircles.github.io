@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Broken Circles Blog
+title: Be More Circular Blog
 description: What we thought and what we learned
 github_username: brokencircles
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: brokencircles@cranbim.com
+twitter_username: @BeMoreCircular
 
 # Set this to true to get LaTeX math equation support
 use_math:
