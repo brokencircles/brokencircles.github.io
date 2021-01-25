@@ -11,8 +11,8 @@ description: What we thought and what we learned
 github_username: brokencircles
 
 # Email and twitter are optional:
-email: brokencircles@cranbim.com
-twitter_username: BeMoreCircular
+email:
+twitter_username:
 
 # Set this to true to get LaTeX math equation support
 use_math:
