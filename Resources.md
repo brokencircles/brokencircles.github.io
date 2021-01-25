@@ -1,4 +1,4 @@
-# Circular Resources Links
+# Resources
 
 ## Art
 [Crypto Art WTF](http://cryptoart.wtf) 
