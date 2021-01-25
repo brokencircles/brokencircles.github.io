@@ -1,12 +1,12 @@
 # Join Us!
-###Open roles:
-##Generative Exhibition Concept Designer (Intern)
+Open roles:
+## Generative Exhibition Concept Designer (Intern)
 - Collaborate with us to generate ideas for an exhibitiopn prototype
 - Work with us on a real, live brief
 - Fit around your other commitments
 - **£500 stipend** + materials
 
-##Ecologist at the Design Table (Volunteer)
+## Ecologist at the Design Table (Volunteer)
 - A unique opportunity to have a voice at the design table
 - Represent ecological systems where design decisions are being made
 - Together we will put ecologist thought at the design table
@@ -28,7 +28,7 @@ Dave (a creative technologist based in Bath) and Jon (a UX designer based in Cor
 - Encouraged to speak up, participate, use your voice, and make an impact
 - An exciting and publicly shown project to add to your CV and online profile
 
-#How to apply
+# How to apply
 Please send an email with the title of the position you would like to apply for to **brokencircles@cranbim.com** including a statement of interest and CV or portfolio
 
 ## Closed vacancies
