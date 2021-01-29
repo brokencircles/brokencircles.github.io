@@ -1,7 +1,7 @@
 # Join Us!
 Open roles:
 ## Generative Exhibition Concept Designer (Intern)
-- Collaborate with us to generate ideas for an exhibitiopn prototype
+- Collaborate with us to generate ideas for an exhibition prototype
 - Work with us on a real, live brief
 - Fit around your other commitments
 - **£500 stipend** + materials
